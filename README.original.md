@@ -8,7 +8,7 @@
 
 ## Boilerplate (beta)
 
-Want to clone a boilerplate instead of my buzz blog? Here comes this!  
+Want to clone a boilerplate instead of my buzz blog? Here comes this!
 
 ```
 $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
@@ -17,7 +17,7 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 **[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
 
 
-## Porting 
+## Porting
 
 - [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
 - [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
@@ -124,7 +124,7 @@ title: Hux Blog             # title of your website
 SEOTitle: Hux Blog			# check out docs for more detail
 description: "Cool Blog"    # ...
 
-# SNS settings      
+# SNS settings
 github_username: huxpro     # modify this account to yours
 weibo_username: huxpro      # the footer woule be auto-updated.
 
@@ -168,7 +168,7 @@ sidebar-about-description: "your description here"
 sidebar-avatar: /img/avatar-hux.jpg     # use absolute URL.
 ```
 
-We default support *[Featured Tags](#featured-tags)*, *[Mini About Me](#mini-about-me)* and *[Friends](#friends)* these three modules and you can add your own. The sidebar is naturally responsive and would be push to bottom in a small screen size (`<= 992px`, according to [Bootstarp Grid System](http://getbootstrap.com/css/#grid))  
+We default support *[Featured Tags](#featured-tags)*, *[Mini About Me](#mini-about-me)* and *[Friends](#friends)* these three modules and you can add your own. The sidebar is naturally responsive and would be push to bottom in a small screen size (`<= 992px`, according to [Bootstarp Grid System](http://getbootstrap.com/css/#grid))
 More details of these three separate modules are talking below.
 
 #### Mini About Me
@@ -179,22 +179,22 @@ It is really nice-looking and well-designed. It would be hidden in a small scree
 
 #### Featured Tags
 
-Considering the Featured-Tags feature in [Medium](http://medium.com) is pretty cool, so I add it in my blog theme also.   
+Considering the Featured-Tags feature in [Medium](http://medium.com) is pretty cool, so I add it in my blog theme also.
 This module is independent of sidebar from V1.4, so it can definitely live without enable sidebar, which would be displayed in the bottom when `sidebar` set to false, and it is not only displayed in home page but also every post page bottom.
 
 
 ```
 # Featured Tags
-featured-tags: true  
+featured-tags: true
 featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
 ```
 
-The only one thing need to be paid attention to is the `featured-condition-size`: A tag will be featured if the size of it is more than this condition value.  
+The only one thing need to be paid attention to is the `featured-condition-size`: A tag will be featured if the size of it is more than this condition value.
 Internally, a condition template `{% if tag[1].size > {{site.featured-condition-size}} %}` is used to do the filter.
 
 #### Friends
 
-Friends is a very common feature of a blog seeing the SEO, so I add it in V1.1 release to help that.   
+Friends is a very common feature of a blog seeing the SEO, so I add it in V1.1 release to help that.
 Friends can also live without enable sidebar, also be displayed in the bottom when sidebar unable, and be displayed in every post page bottom.
 
 
