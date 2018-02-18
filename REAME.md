@@ -1,0 +1,1 @@
+This is a modified static web framework based on Hux's project.
