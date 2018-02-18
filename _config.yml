@@ -1,10 +1,10 @@
 # Site settings
 title: Biyun's Blog
-SEOTitle: Biyun Wu Blog
+SEOTitle: Biyun Wu
 header-img: img/home-bg.jpg
 email: beenwu2016@gmail.com
 description: "Front-end Developer"
-keyword: "Biyun, Biyun Wu, Biyun Blog, Biyun Wu Blog, Personal Wesite, Internet, Web, JavaScript, Front-end"
+keyword: "Biyun, Biyun Wu, Biyun's Blog, Biyun Wu's Blog, Personal Wesite, Internet, Web, JavaScript, Front-end"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -73,7 +73,7 @@ sidebar-avatar: /img/by.jpg      # use absolute URL, seeing it's used in both `/
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: false                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
