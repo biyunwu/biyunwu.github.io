@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "Coursera V.S. Udacity"
-subtitle:     "Which One Should Beginner Pick"
+subtitle:     "Which One Should Beginner Pick ?"
 date:         2018-02-19 12:00:00
 author:       "Biyun Wu"
 header-img:   " "
@@ -15,7 +15,7 @@ tags:
     - Beginner
 ---
 
-> Conclusion:
+> Conclusion: The two platform offered quit different approaches to help beginners to step into the industry.
 
 Last year, when I decided to begin my career in programming, I took some programming courses including C++ in college.
 
@@ -23,6 +23,6 @@ Last year, when I decided to begin my career in programming, I took some program
 |              |Coursera      |Udacity         |
 |--------------|--------------|----------------|
 |Style         |Academic      |Industrial      |
-|Responsiveness|Hours to days |Minutes to Hours|
-|Foucus        | |
+|Responsiveness|Hours to days |Minutes to hours|
+|Focus         |Methods       |Perticular techniques|
 |Price         |$49/month     |$199+/month     |
