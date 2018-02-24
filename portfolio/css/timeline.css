@@ -195,7 +195,7 @@ body, html {
 	display: block;
 	width: 40px;
 	height: 40px;
-	background: url("../images/front-end.png") 100% 100% no-repeat;
+	background: url("../images/front-end.svg") 50% 50% no-repeat;
 	background-size: 22px;
 }
 
