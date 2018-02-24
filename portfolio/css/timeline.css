@@ -190,15 +190,6 @@ body, html {
 	background-size: 22px;
 }
 
-.i-front-end:before {
-	content: "";
-	display: block;
-	width: 200px;
-	height: 40px;
-	background: url("../images/front-end.svg") 50% 50% no-repeat;
-	background-size: 22px;
-}
-
 /******* Hux Branch *****/
 
 /* navbar - dark mode */
