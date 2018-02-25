@@ -22,7 +22,7 @@ Last year, when I decided to begin my career in programming, I took some Compute
 
 Why choose Coursera and Udacity to compare with? Certainly, there are so many other MOOCs available online, such as Edx, Coursera, Udemy, Udacity, etc. Basically, they can be characterized in two types: academic and industrial. For example, most courses on Edx and Coursera are instructed by college faculties. Differently, experienced developers are more commonly to be instructors on Udemy and Udacity. Even though Microsoft began to offer coourses on Edx and theoratical computer science introduction courses are published on Udacity, the diversity trend did not change the genes on both sides. Therefore, I simply choose Coursera and Udacity as two categorial representitives here in order to compare their pros and cons for beginners who are confused as I was when facing the similar dilemma.
 
-This comparison is based on my experience of Java programming specializions (offered by [Duke](https://www.coursera.org/specializations/java-programming) and [UC San Diego](https://www.coursera.org/specializations/java-object-oriented)) on Coursera and [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) on Udacity.
+This comparison is based on my experience of Java programming specializions (offered by <a href="https://www.coursera.org/specializations/java-programming" target="_blank">Duke</a> and <a href="https://www.coursera.org/specializations/java-object-oriented" target="_blank">UC San Diego</a>) on Coursera and <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank">Full Stack Web Developer Nanodegree</a> on Udacity.
 
 ## Academic Coursera
 
