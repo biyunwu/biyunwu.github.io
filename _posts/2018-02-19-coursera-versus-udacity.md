@@ -18,12 +18,11 @@ tags:
 > Conclusion: The two platforms offer quite different approaches that help beginners to step into the industry. It depends on your expectation and time span to decide which approach suits you better.
 
 ## Background
-Last year, when I decided to begin my career in programming, I took some Computer Science courses including C++ in college. I found that it was very easy to forget what I learned through traditional lectures in classroom. Following the advice of a programmer friend, I shifted to Coursera and Udacity, and also explored some other online platforms on the market. Certainly, there are some other peers like Edx, Udemy, etc. I simply choose Coursera and Udacity as two categorial representitives here in order to compare their pros and cons for beginners who are confused as I was when facing the similar dilemma.
+Last year, when I decided to begin my career in programming, I took some Computer Science courses including C++ in college. I found that it was very easy to forget what I learned through traditional lectures in classroom. Following the advice of a programmer friend, I shifted to Coursera and Udacity, and also explored some other online platforms on the market.
+
+Certainly, there are so many other MOOCs available on the market, such as Edx, Coursera, Udemy, Udacity, etc. Basically, they can be characterized in two types: academic and industrial. For example, most courses on Edx and Coursera are instructed by college faculties. Differently, experienced developers are more commonly to be instructors on Udemy and Udacity. Even though Microsoft began to offer coourses on Edx and theoratical computer science introduction courses are published on Udacity, the diversity trend did not change the genes on both sides. Therefore, I simply choose Coursera and Udacity as two categorial representitives here in order to compare their pros and cons for beginners who are confused as I was when facing the similar dilemma.
 
 This comparison is based on my experience of Java programming specializions (offered by Duke and UC San Diego) on Coursera and Full Stack Nanodegree on Udacity.
-
-## Why choose Coursera and Udacity to compare?
-Edx, Coursera, Udemy, Udacity...... There are so many MOOCs available on the market. Basically, they can be characterized in two types: academic and industrial. For example, most courses on Edx and Coursera are instructed by college faculties. Differently, experienced developers are more commonly to be instructors on Udemy and Udacity.
 
 ## Academic Coursera
 
