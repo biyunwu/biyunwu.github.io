@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "Coursera v.s. Udacity"
-subtitle:     "Academic or Industrial, Which One Should Beginners Pick ?"
+subtitle:     "Which One Should Beginners Pick?"
 date:         2018-02-19 12:00:00
 author:       "Biyun Wu"
 header-img:   " "
@@ -15,7 +15,7 @@ tags:
     - Beginner
 ---
 
-> Conclusion: The two platforms can be regarded as quite different approaches that help beginners to step into the industry. It depnets on your expectation and time span to decide which approach suits you better.
+> Conclusion: The two platforms can be regarded as quite different approaches that help beginners to step into the industry. It depends on your expectation and time span to decide which approach suits you better.
 
 ## Background
 Last year, when I decided to begin my career in programming, I took some Computer Science courses including C++ in college. I found that it was very easy to forget what I learned through traditional lectures in classroom. Following the advice of a programmer friend, I shifted to Coursera and Udacity, and also explored some other online platforms on the market. Certainly, there are some other peers like Edx, Udemy, etc. I simply choose Coursera and Udacity as two categorial representitives here in order to compare their pros and cons for beginners who are confused as I was when facing the similar dilemma.
