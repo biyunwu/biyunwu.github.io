@@ -47,23 +47,26 @@ Along the way, you are also taught pointer, heap, stack and how to draw memory m
 ### Industrial Udacity
 
 The contents on Udacity are more like instructions which pace the way to the Tech industry for learners. Even though the provided tutorials also
-cover programming basics, they are included to support those tutorials which teach learners how to build attractive websites or apps quickly.
+cover programming basics, they are included to support those tutorials which teach learners how to build attractive projects or step into the industy quickly. For example, sorting algrithms, binary tree and Big-O notation are often appered in interviewing topics. Udacity has a seperated chapter to cover those knowledge at the end of its <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank">Full Stack Web Developer Nanodegree</a> that deliberately tackle interview problems. In comparison, Coursera cover those knowledge gradually and prompt learners to apply them in their coding practice. Besides, Udacity provides detailed instructions for leaners to build their social network in the industry, help learner sharp their resumes and even offer one to one consultanting services online.
 
 ### Responsiveness
 
-It can be frustrating for beginners deal with difficulties in programming without any help. Therefore, a MOOC's responsiveness to its discussion forum is very important. Based on my experience, after posting a question, I probably wait hours to days to get the response on Cousera. In contrast, it takes minutes to hours on Udacity.
+It can be frustrating for beginners to deal with difficulties in programming without any help. Therefore, a MOOC's responsiveness to its discussion forum is very important. Based on my experience, after posting a question, I often have to wait for hours or even days to get the answer on Cousera. By contrast, it usually takes minutes or hours on Udacity. However, the lag of responsiveness can be advantageous from another perspective. Thinking of searching the internet and looking for documentations are routines of programmers, I often try to find solutions on either professional forums such as <a href="https://stackoverflow.com" target="_blank">Stack Overflow</a> or in offical references. It happaned many times that I solved the problem before receiving a response in the discussion forum. But it cannot be denied that a responsive community plays a vital role.
 
 ## Comparison Chat
+
+Here is chart to show the two MOOCs' differences including some aspects not mentioned above.
 
 |                       |Coursera            |Udacity              |
 |-----------------------|--------------------|---------------------|
 |Style                  |Academic            |Industrial           |
 |Emphasis               |Theoretical clarity |Techniques oriented  |
 |Instructor             |Faculty             |Experienced developer|
-|Responsivenes          |Hours to days       |Minutes to hours     |
+|Responsivenes          |Hours or days       |Minutes or hours     |
 |Job hunting help       |Generally mentioned |Detailed instructions|
 |Price                  |$49/month           |$199+/month          |
 |Fanancial aid          |Yes                 |No                   |
 |Scholarship            |No                  |Yes                  |
 
 ## Conclusion
+
