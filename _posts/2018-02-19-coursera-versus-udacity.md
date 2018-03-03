@@ -25,11 +25,19 @@ Why choose Coursera and Udacity to compare with? Certainly, there are so many ot
 This comparison is based on my experience of Java programming specializions (offered by <a href="https://www.coursera.org/specializations/java-programming" target="_blank">Duke</a> and <a href="https://www.coursera.org/specializations/java-object-oriented" target="_blank">UC San Diego</a>) on Coursera and <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank">Full Stack Web Developer Nanodegree</a> on Udacity.
 
 ## Similarities
-Both Coursera and Udacity adopt project oriented strategy throughout their programs. A specialization or Nanodegree is usually finished in one or more concrete projects applied with those learned key points. This strategy means learners need to implement what they absorbed to build relatively sophisticated apps or websites by coding. In contrast to passively accepting knowledge by lectures, projects prompt learners to positively digest the knowledge by the rethinking process of coding. Furthermore, those finished projects can be really helpful which prove their experience while job hunting.
+Both Coursera and Udacity adopt project oriented strategy throughout their programs. A specialization or Nanodegree is usually finished in one or more concrete projects applied with those learned key points. This strategy means learners need to implement what they absorbed to build relatively sophisticated apps or websites by coding. In contrast to passively accepting knowledge by lectures, projects prompt learners to positively digest the knowledge by the rethinking process of coding. Furthermore, those finished projects can be really helpful which prove coding experience while job hunting.
 
 ## Differences
 
 ### Academic Coursera
+Courses on Coursera are somehow academic. No matter which intro-programming course you take, you are probably going to follow this routine:
+[1]Primitive type, variable, condition operator, loop;
+[2]Fuction, object, class, array, list;
+[3]Instance, instance constructor & variable;
+[5]Inherentance, polymorphism;
+[6]Sorting algrithms, Big-O notation, linked list
+......
+
 
 ### Industrial Udacity
 
