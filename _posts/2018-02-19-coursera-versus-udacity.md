@@ -27,31 +27,31 @@ This comparison is based on my experience of Java programming specializions (off
 
 ## Similarities
 
-Both Coursera and Udacity adopt the project oriented strategy throughout their programs. A specialization or Nanodegree is usually finished in one or more concrete projects applied with those learned key points. This strategy means learners need to implement what they absorbed to build relatively sophisticated apps or websites by coding. In contrast to passively accepting knowledge by lectures, projects prompt learners to positively digest the knowledge by the rethinking process of coding. Furthermore, those finished projects can be really helpful which prove their experience while job hunting.
+Both Coursera and Udacity adopt the project oriented strategy throughout their programs. A specialization or Nanodegree is usually finished in one or more concrete projects applied with those learned key points. This strategy means learners need to implement what they have absorbed to build relatively sophisticated apps or websites by coding. In contrast to passively accepting knowledge by lectures, projects prompt learners to actively apply the knowledge in their coding practice. Furthermore, those finished projects can be really helpful in job hunting.
 
 ## Differences
 
 ### Academic Coursera
 
-Courses on Coursera are somehow academic. No matter which intro-programming course you take, you are probably going to follow this routine below and finishing course projects.
+Courses on Coursera are more academic. No matter which intro-programming course you take, you are probably going to follow this routine below and finishing course projects.
 
-- Primitive type, variable, condition operator, loop;
+- Primitive types, variables, condition operators, loops;
 - Fuction, object, class, array, list;
 - Instance, instance constructor & variable;
 - Inheritance, polymorphism;
 - Sorting algrithms, Big-O notation, linked list
 - ......
 
-Along the way, you are also taught pointer, heap, stack and how to draw memory module. Besides, you are consistently revising the way of coding in projects after adopting new concepts. For example, function lets you reuse your code, inheritance and polymorphism help design classes which share similiar properties, Big-O notation tells which algrithm is more efficient. That is to say, the projects of coursers on Coursra are the way to help learners to consolide those programming basics which are in common between different programming languages.
+Along the way, you are also taught pointer, heap, stack and how to draw memory module. Besides, you consistently revise the way of coding in projects after adopting new concepts. For example, function lets you reuse your code, inheritance and polymorphism help design classes which share similiar properties, Big-O notation tells which algrithm is the most efficient. That is to say, the projects of courses on Coursra are the way to help learners to consolide those programming basics which are common among different programming languages.
 
 ### Industrial Udacity
 
-The contents on Udacity are more likely instructions which pace the way to the Tech industry for learners. Even though the provided tutorials also
+The contents on Udacity are more like instructions which pace the way to the Tech industry for learners. Even though the provided tutorials also
 cover programming basics, they are included to support those tutorials which teach learners how to build attractive websites or apps quickly.
 
 ### Responsiveness
 
-It is so frustrated for beginners to face obstacles in programming that makes a MOOC's responsiveness of its discussion forum very important. Based on my experience, after posting a question, I probably wait hours to days to get the response on Cousera. In contrast, it takes minutes to hours on Udacity.
+It can be frustrating for beginners deal with difficulties in programming without any help. Therefore, a MOOC's responsiveness to its discussion forum is very important. Based on my experience, after posting a question, I probably wait hours to days to get the response on Cousera. In contrast, it takes minutes to hours on Udacity.
 
 ## Comparison Chat
 
