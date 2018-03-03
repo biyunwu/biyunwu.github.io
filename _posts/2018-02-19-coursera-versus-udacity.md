@@ -31,11 +31,11 @@ Both Coursera and Udacity adopt project oriented strategy throughout their progr
 
 ### Academic Coursera
 Courses on Coursera are somehow academic. No matter which intro-programming course you take, you are probably going to follow this routine:
-[1]Primitive type, variable, condition operator, loop;
-[2]Fuction, object, class, array, list;
-[3]Instance, instance constructor & variable;
-[5]Inherentance, polymorphism;
-[6]Sorting algrithms, Big-O notation, linked list
+-Primitive type, variable, condition operator, loop;
+-Fuction, object, class, array, list;
+-Instance, instance constructor & variable;
+-Inherentance, polymorphism;
+-Sorting algrithms, Big-O notation, linked list
 ......
 
 
