@@ -15,7 +15,7 @@ tags:
     - Beginner
 ---
 
-> Conclusion: The two platforms offer quite different approaches that help beginners to step into the industry. It depends on your expectation and available time to decide which approach suits you better.
+> The two platforms offer quite different approaches that help beginners to step into the industry. It depends on your expectation and available time to decide which approach suits you better.
 
 ## Background
 Last year, when I decided to begin my career in programming, I took some Computer Science courses including C++ in college. I found that it was very easy to forget what I learned through traditional lectures in classroom. Following the advice of a programmer friend, I shifted to Coursera and Udacity, and also explored some other online platforms on the market.
@@ -35,17 +35,20 @@ Courses on Coursera are somehow academic. No matter which intro-programming cour
 - Primitive type, variable, condition operator, loop;
 - Fuction, object, class, array, list;
 - Instance, instance constructor & variable;
-- Inherentance, polymorphism;
+- Inheritance, polymorphism;
 - Sorting algrithms, Big-O notation, linked list
 - ......
 
-Along the way, you are also taught pointer, heap, stack and how to draw memory module. That is to say, the projects for coursers on Coursra is the way to help learners to consolide those programming foundamentals.
+Along the way, you are also taught pointer, heap, stack and how to draw memory module. Besides, you are consistently revising the way of coding in projects after adopting new concepts. For example, function lets you reuse your code, inheritance and polymorphism help design classes which share similiar properties, Big-O notation tells which algrithm is more efficient. That is to say, the projects of coursers on Coursra are the way to help learners to consolide those programming basics which are in common between different programming languages.
 
 ### Industrial Udacity
-The contents on Udacity are more likely instructions which pace the way to the Tech industry for learners.
+The contents on Udacity are more likely instructions which pace the way to the Tech industry for learners. Even though the provided tutorials also
+cover programming basics, they are included to support those tutorials which teach learners how to build attractive websites or apps quickly.
 
+### Responsiveness
+It is so frustrated for beginners to face obstacles in programming that makes a MOOC's responsiveness of its discussion forum very important. Based on my experience, after posting a question, I probably wait hours to days to get the response on Cousera. In contrast, it takes minutes to hours on Udacity.
 
-
+## Comparison Chat
 |                       |Coursera            |Udacity              |
 |-----------------------|--------------------|---------------------|
 |Style                  |Academic            |Industrial           |
@@ -56,3 +59,5 @@ The contents on Udacity are more likely instructions which pace the way to the T
 |Price                  |$49/month           |$199+/month          |
 |Fanancial aid          |Yes                 |No                   |
 |Scholarship            |No                  |Yes                  |
+
+## Conclusion
