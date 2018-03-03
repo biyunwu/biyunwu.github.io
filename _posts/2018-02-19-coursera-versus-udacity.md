@@ -30,8 +30,19 @@ Both Coursera and Udacity adopt the project oriented strategy throughout their p
 ## Differences
 
 ### Academic Coursera
+Courses on Coursera are somehow academic. No matter which intro-programming course you take, you are probably going to follow this routine below and finishing course projects.
+
+- Primitive type, variable, condition operator, loop;
+- Fuction, object, class, array, list;
+- Instance, instance constructor & variable;
+- Inherentance, polymorphism;
+- Sorting algrithms, Big-O notation, linked list
+- ......
+
+Along the way, you are also taught pointer, heap, stack and how to draw memory module. That is to say, the projects for coursers on Coursra is the way to help learners to consolide those programming foundamentals.
 
 ### Industrial Udacity
+The contents on Udacity are more likely instructions which pace the way to the Tech industry for learners.
 
 
 
