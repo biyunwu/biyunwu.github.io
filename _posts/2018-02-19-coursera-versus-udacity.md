@@ -31,6 +31,7 @@ Both Coursera and Udacity adopt project oriented strategy throughout their progr
 
 ### Academic Coursera
 Courses on Coursera are somehow academic. No matter which intro-programming course you take, you are probably going to follow this routine:
+
 -Primitive type, variable, condition operator, loop;
 -Fuction, object, class, array, list;
 -Instance, instance constructor & variable;
