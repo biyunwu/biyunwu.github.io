@@ -4,7 +4,7 @@ title:        "Coursera v.s. Udacity"
 subtitle:     "Which One Should Beginners Pick ?"
 date:         2018-02-19 12:00:00
 author:       "Biyun Wu"
-header-img:   "/img/about-background.jpg"
+header-img:   "img/about-background.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: false
@@ -42,7 +42,9 @@ Courses on Coursera are more academic. No matter which intro-programming course 
 - Sorting algrithms, Big-O notation, linked list
 - ......
 
-![Big-O analysis for different sorting algrithms in UC San Diego's Java programming specilization](/img/coursera-vs-udacity/coursera.jpg)
+|![Big-O analysis for different sorting algrithms in UC San Diego's Java programming specilization](img/coursera-vs-udacity/coursera.jpg)|
+|------------|
+|Big-O analysis for different sorting algrithms in UC San Diego's Java programming specilization|
 
 Along the way, you are also taught pointer, heap, stack and how to draw memory module. Besides, you consistently revise the way of coding in projects after adopting new concepts. For example, function lets you reuse your code, inheritance and polymorphism help design classes which share similiar properties, Big-O notation tells which algrithm is the most efficient. That is to say, the projects of courses on Coursra are the way to help learners to consolide those programming basics which are common among different programming languages.
 
