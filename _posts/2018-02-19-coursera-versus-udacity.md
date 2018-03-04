@@ -4,7 +4,7 @@ title:        "Coursera v.s. Udacity"
 subtitle:     "Which One Should Beginners Pick ?"
 date:         2018-02-19 12:00:00
 author:       "Biyun Wu"
-header-img:   " "
+header-img:   "/img/about-background.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: false
@@ -42,6 +42,8 @@ Courses on Coursera are more academic. No matter which intro-programming course 
 - Sorting algrithms, Big-O notation, linked list
 - ......
 
+![Big-O analysis for different sorting algrithms in UC San Diego's Java programming specilization](/img/coursera-vs-udacity/coursera.jpg)
+
 Along the way, you are also taught pointer, heap, stack and how to draw memory module. Besides, you consistently revise the way of coding in projects after adopting new concepts. For example, function lets you reuse your code, inheritance and polymorphism help design classes which share similiar properties, Big-O notation tells which algrithm is the most efficient. That is to say, the projects of courses on Coursra are the way to help learners to consolide those programming basics which are common among different programming languages.
 
 ### Industrial Udacity
@@ -70,3 +72,6 @@ Here is chart to show the two MOOCs' differences including some aspects not ment
 
 ## Conclusion
 
+Academic Coursera and industrial Udacity can be recognized as "bottom-up and top-down approaches" to learning programming. As <a href="http://www.programmingforbeginnersbook.com/blog/top-down-bottom-up-approaches-to-learning-programming/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website" target="_blank">Tom Dalling</a> describes, the two general approaches have their own pros and cons.
+
+Personally, if time is not a issue for you, I highly recommend you to follow the academic way and Coursera definitely meets your needs. If time matters, Udacity is a good choice, but the bottom-up approach should also be adopted as possible as you can.
