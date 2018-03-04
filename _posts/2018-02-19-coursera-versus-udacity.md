@@ -56,7 +56,7 @@ cover programming basics, they are included to support those tutorials which tea
 
 It can be frustrating for beginners to deal with difficulties in programming without any help. Therefore, a MOOC's responsiveness to its discussion forum is very important. Based on my experience, after posting a question, I often have to wait for hours or even days to get the answer on Cousera. By contrast, it usually takes minutes or hours on Udacity. However, the lag of responsiveness can be advantageous from another perspective. Thinking of searching the internet and looking for documentations are routines of programmers, I often try to find solutions on either professional forums such as <a href="https://stackoverflow.com" target="_blank">Stack Overflow</a> or in offical references. It happaned many times that I solved the problem before receiving a response in the discussion forum. But it cannot be denied that a responsive community plays a vital role.
 
-## Comparison Chat
+## Comparison Chart
 
 Here is chart to show the two MOOCs' differences including some aspects not mentioned above.
 
