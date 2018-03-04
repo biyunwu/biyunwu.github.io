@@ -58,7 +58,7 @@ It can be frustrating for beginners to deal with difficulties in programming wit
 
 ## Comparison Chart
 
-Here is chart to show the two MOOCs' differences including some aspects not mentioned above.
+Here is the chart to show the two MOOCs' differences including some other aspects not mentioned above.
 
 |                       |Coursera            |Udacity               |
 |-----------------------|--------------------|----------------------|
