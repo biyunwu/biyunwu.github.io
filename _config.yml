@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email:
 description: "Front-end Developer"
 keyword: "Biyun, Biyun Wu, Biyun's Blog, Biyun Wu's Blog, Personal Wesite, Internet, Web, JavaScript, Front-end"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://biyunwu.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -68,8 +68,8 @@ ga_domain: biyunwu.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Front-end Developer"
-sidebar-avatar: /img/by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
+# sidebar-avatar: /img/by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/home-bg.jpg
 
 
 # Featured Tags
