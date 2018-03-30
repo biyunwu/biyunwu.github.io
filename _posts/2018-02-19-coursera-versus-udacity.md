@@ -47,7 +47,7 @@ Along the way, you are also taught pointer, heap, stack and how to draw memory m
 ### Industrial Udacity
 
 The contents on Udacity are more like instructions which pace the way to the Tech industry for learners. Even though the provided tutorials also
-cover programming basics, they are included to support those tutorials which teach learners how to build attractive projects or step into the industy quickly. For example, sorting algrithms, binary tree and Big-O notation are often appered in interviewing topics. Udacity has a seperated chapter to cover those knowledge at the end of its <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank">Full Stack Web Developer Nanodegree</a> that deliberately tackle interview problems. In comparison, Coursera cover those knowledge gradually and prompt learners to apply them in their coding practice. Besides, Udacity provides detailed instructions for leaners to build their social network in the industry, help learner sharp their resumes and even offer one to one consultanting services online.
+cover programming basics, they are included to support those tutorials which teach learners how to build attractive projects or step into the industy quickly. For example, sorting algrithms, binary tree and Big-O notation are often appered in interviewing topics. Udacity has a seperated chapter to cover those knowledge at the end of its <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank">Full Stack Web Developer Nanodegree</a> that deliberately tackle interview problems. In comparison, Coursera covers those knowledge gradually and guides learners to apply them in their coding practice. Moreover, Udacity provides detailed instructions for leaners to build their social network in the industry, help learners sharp their resumes and even offer one to one consulting services online.
 
 ### Responsiveness
 
@@ -55,7 +55,7 @@ It can be frustrating for beginners to deal with difficulties in programming wit
 
 ## Comparison Chat
 
-Here is chart to show the two MOOCs' differences including some aspects not mentioned above.
+Here is chart to show the two MOOCs' differences including some aspects not mentioned above. The comparison is based on Coursera's specializatons and Udacity's Nanodegrees. Both platfroms also offer free courses.
 
 |                       |Coursera            |Udacity              |
 |-----------------------|--------------------|---------------------|
@@ -64,6 +64,7 @@ Here is chart to show the two MOOCs' differences including some aspects not ment
 |Instructor             |Faculty             |Experienced developer|
 |Responsivenes          |Hours or days       |Minutes or hours     |
 |Job hunting help       |Generally mentioned |Detailed instructions|
+|Consulting service     |No                  |Yes                  |
 |Price                  |$49/month           |$199+/month          |
 |Fanancial aid          |Yes                 |No                   |
 |Scholarship            |No                  |Yes                  |
