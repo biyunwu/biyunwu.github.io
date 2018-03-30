@@ -49,9 +49,7 @@ Along the way, you are also taught pointer, heap, stack and how to draw memory m
 
 ### Industrial Udacity
 
-The contents on Udacity are more like instructions which pace the way to the Tech industry for learners. Even though the provided tutorials also
-<<<<<<< HEAD
-cover programming basics, they are included to support those tutorials which teach learners how to build attractive projects or step into the industy quickly. For example, sorting algrithms, binary tree and Big-O notation are often appered in interviewing topics. Udacity has a seperated chapter to cover those knowledge at the end of its <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank">Full Stack Web Developer Nanodegree</a> that deliberately tackle interview problems. In comparison, Coursera covers those knowledge gradually and guides learners to apply them in their coding practice. Moreover, Udacity provides detailed instructions for leaners to build their social network in the industry, help learners sharp their resumes and even offer one to one consulting services online.
+The contents on Udacity are more like instructions which pace the way to the Tech industry for learners. Even though the provided tutorials also cover programming basics, they are included to support those tutorials which teach learners how to build attractive projects or step into the industy quickly. For example, sorting algrithms, binary tree and Big-O notation are often appered in interviewing topics. Udacity has a seperated chapter to cover those knowledge at the end of its <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank">Full Stack Web Developer Nanodegree</a> that deliberately tackle interview problems. In comparison, Coursera covers those knowledge gradually and guides learners to apply them in their coding practice. Moreover, Udacity provides detailed instructions for leaners to build their social network in the industry, help learners sharp their resumes and even offer one to one consulting services online.
 
 ### Responsiveness
 
