@@ -71,7 +71,7 @@ sumObj.sum('Sum:');            // Sum: 15
 sumObj.sum.call(numObj, ['Total:']); // Total: 40
 ```
 
-In the sample code, `sum` is a property of `sumObj`, when the `.call()` method is invoked on it with the parameters of `numObj` and the string, the value of `this` in the `.sum()` funtion is set to `numObj`. So, the `.sum()` method can be called on `numObj`.
+In the sample code, `sum` is a property of `sumObj`. When the `.call()` method is invoked on it with the parameters of `numObj` and the string, the value of `this` in the `.sum()` funtion is set to `numObj`. So, the `.sum()` method can be called on `numObj`.
 
 Both `.apply()` and `.bind()` are similair to `.call()`, they are called on functions and given an object and the functions' arguments. So, `this` in functions can be referred to and called on the given object.
 
