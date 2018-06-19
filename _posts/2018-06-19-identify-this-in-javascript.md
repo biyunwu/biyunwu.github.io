@@ -14,9 +14,9 @@ tags:
     - Tricks
 ---
 
-> Only One Rule: The value of `this` in a function is set once the function is invoked.
+> Only One Rule: the value of `this` in a function is set once the function is invoked.
 >
-> Three Situations: Normal Situation, Special Functions (`.bind()` `.call()` `.apply()`...) and Arrow Function.
+> Three Situations: normal situation, special functions (`.bind()` `.call()` `.apply()`...) and arrow function.
 
 ## One Rule and Three Categorialized Situations to Identify `this` in Javascript (ES6)
 
@@ -108,7 +108,7 @@ After arrow funtion `.add()` invoked on `obj2`, the value of `this` was set to t
 
 When `obj2.add()` executes, `this` refers to `obj2`'s upper level `this`, which is the `window` object.
 
-This situation can be a hassal in ES6. However, considering arrow function provide a convenient way to reach the function's upper level scope, it is also very useful.
+This situation can be a hassle in ES6. However, considering arrow function provides a convenient way to reach the function's upper level scope, it is also very useful.
 
 ### Conclusion
-All in all, The one and only rule is that the value of `this` in a funciton is set once the function is invoked.
+All in all, the one and only rule is that the value of `this` in a funciton is set once the function is invoked.
