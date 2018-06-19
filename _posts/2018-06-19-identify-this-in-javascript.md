@@ -18,9 +18,9 @@ tags:
 >
 > Three Situations: normal situation, special functions (`.bind()` `.call()` `.apply()`...) and arrow function.
 
-## One Rule and Three Categorialized Situations to Identify `this` in Javascript (ES6)
+# One Rule and Three Categorialized Situations to Identify `this` in Javascript (ES6)
 
-### Situation 1: The exact value of `this` is set once a method is invoked
+## Situation 1: The exact value of `this` is set once a method is invoked
 
 ```js
 // Constructor function
@@ -50,7 +50,7 @@ In the example, after the object of `cat` is created, its value eqauls to:
 
 When the `.info()` method is invoked on `cat`, the value of `this` is set to `cat`, so that the `.info()` method in the constructor function's prototype can access the `cat`'s `age` and `color` properties.
 
-### Situation 2: `this` with `.call()`, `.apply()` and `.bind()`
+## Situation 2: `this` with `.call()`, `.apply()` and `.bind()`
 
 ```js
 const sumObj = {
@@ -77,7 +77,7 @@ Both `.apply()` and `.bind()` are similair to `.call()`, they are called on func
 
 Even though `.call()`, `.apply()` and `.bind()` are not categorized in the **Situation 1**, but they also comply the rule that `this` refers to the object which the function is invoked on.
 
-### Situation 3: `this` in arrow function
+## Situation 3: `this` in arrow function
 
 The reason why `this` with arrow functions should be taken into special consideration is that, the scope of arrow function is different from regular function.
 
@@ -110,5 +110,5 @@ When `obj2.add()` executes, `this` refers to `obj2`'s upper level `this`, which 
 
 This situation can be a hassle in ES6. However, considering arrow function provides a convenient way to reach the function's upper level scope, it is also very useful.
 
-### Conclusion
+## Conclusion
 All in all, the one and only rule is that the value of `this` in a funciton is set once the function is invoked.
