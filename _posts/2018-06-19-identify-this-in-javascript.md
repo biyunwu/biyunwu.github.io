@@ -42,7 +42,7 @@ cat.age;    // 3
 cat.info(); // 'Meow! Age: 3, color: black.'
 ```
 
-In the example, after the object of `cat` is created, its value eqauls to:
+In the example, after the object of `cat` is created, its value eqauls:
 
 ```js
 {age: 3, color: "black"}
