@@ -14,11 +14,11 @@ tags:
     - Tricks
 ---
 
+# One Rule and Three Categorialized Situations to Identify `this` in Javascript (ES6)
+
 > Only One Rule: the value of `this` in a function is set once the function is invoked.
 >
 > Three Situations: normal situation, special functions (`.bind()` `.call()` `.apply()`...) and arrow function.
-
-# One Rule and Three Categorialized Situations to Identify `this` in Javascript (ES6)
 
 ## Situation 1: The exact value of `this` is set once a method is invoked
 
