@@ -15,7 +15,7 @@ tags:
     - Beginner
 ---
 
-> The two platforms offer quite different approaches that help beginners to step into the industry. It depends on your expectation and available time to decide which approach suits you better.
+> The two platforms offer quite different approaches that help beginners to step into the industry. It depends on their expectation and available time to decide which approach suits them better.
 
 ## Background
 
@@ -33,7 +33,7 @@ Both Coursera and Udacity adopt the project oriented strategy throughout their p
 
 ### Academic Coursera
 
-Courses on Coursera are more academic. No matter which intro-programming course you take, you are probably going to follow this routine below and finishing course projects.
+Courses on Coursera are more academic. No matter which intro-programming course beginners take, they are probably going to follow this routine below and finishing course projects.
 
 - Primitive types, variables, condition operators, loops;
 - Fuction, object, class, array, list;
@@ -45,7 +45,7 @@ Courses on Coursera are more academic. No matter which intro-programming course 
 ![Big-O analysis for different sorting algrithms in UC San Diego's Java programming specilization](/img/coursera-vs-udacity/coursera.jpg)
 *Big-O analysis for different sorting algrithms in UC San Diego's Java programming specilization*
 
-Along the way, you are also taught pointer, heap, stack and how to draw memory module. Besides, you consistently revise the way of coding in projects after adopting new concepts. For example, function lets you reuse your code, inheritance and polymorphism help design classes which share similiar properties, Big-O notation tells which algrithm is the most efficient. That is to say, the projects of courses on Coursra are the way to help learners to consolide those programming basics which are common among different programming languages.
+Along the way, leaners are also taught pointer, heap, stack and how to draw memory module. Besides, they consistently revise the way of coding in projects after adopting new concepts. For example, function lets programmers reuse their code, inheritance and polymorphism help design classes which share similiar properties, Big-O notation tells which algrithm is the most efficient. That is to say, the projects of courses on Coursra are the way to help learners to consolide those programming basics which are common among different programming languages.
 
 ### Industrial Udacity
 
@@ -74,4 +74,4 @@ Here is the chart to show the two MOOCs' differences including some other aspect
 
 Academic Coursera and industrial Udacity can be recognized as "bottom-up and top-down approaches" to learning programming. As <a href="http://www.programmingforbeginnersbook.com/blog/top-down-bottom-up-approaches-to-learning-programming/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website" target="_blank">Tom Dalling</a> describes, the two general approaches have their own pros and cons.
 
-Personally, if time is not a issue for you, I highly recommend you to follow the academic way and Coursera definitely meets your needs. If time matters, Udacity is a good choice, but the bottom-up approach should also be adopted as possible as you can.
+Personally, if time is not a issue, I highly recommend beginners to follow the academic way and Coursera definitely meets their needs. If time matters, Udacity is a good choice, but the bottom-up approach should also be adopted as possible as they can.
