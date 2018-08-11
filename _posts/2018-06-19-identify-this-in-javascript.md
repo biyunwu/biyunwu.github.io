@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Idetify `this` In JavaScript"
+title:        "Identify `this` In JavaScript"
 subtitle:     ""
 date:         2018-06-19 12:00:00
 author:       "Biyun Wu"
