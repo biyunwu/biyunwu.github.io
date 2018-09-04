@@ -2,7 +2,7 @@
 title: Biyun's Blog
 SEOTitle: Biyun Wu
 header-img: img/home-bg.jpg
-email:
+email: beenwu2016@gmail.com
 description: "Front-end Developer"
 keyword: "Biyun, Biyun Wu, Biyun's Blog, Biyun Wu's Blog, Personal Wesite, Internet, Web, JavaScript, Front-end"
 url: "https://biyunwu.com"              # your host, for absolute URL
@@ -16,7 +16,7 @@ RSS: false
 # zhihu_username:
 github_username: biyunwu
 # twitter_username:
-#facebook_username:
+# facebook_username:
 # linkedin_username:  firstname-lastname-idxxxx
 
 
