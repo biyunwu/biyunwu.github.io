@@ -190,6 +190,34 @@ body, html {
 	background-size: 22px;
 }
 
+.i-javascript:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/js-icon.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
+.i-googlemap:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/google-maps-icon.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
+.i-foursquare:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/foursquare-icon.svg") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
+
 /******* Hux Branch *****/
 
 /* navbar - dark mode */
