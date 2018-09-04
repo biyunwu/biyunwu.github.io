@@ -33,7 +33,7 @@ Both Coursera and Udacity adopt the project oriented strategy throughout their p
 
 ### Academic Coursera
 
-Courses on Coursera are more academic. No matter which intro-programming course beginners take, they are probably going to follow this routine below and finishing course projects.
+Courses on Coursera are more academic. No matter which intro-programming course beginners take, they are probably going to follow this routine below and finish course projects.
 
 - Primitive types, variables, condition operators, loops;
 - Fuction, object, class, array, list;
@@ -45,11 +45,11 @@ Courses on Coursera are more academic. No matter which intro-programming course 
 ![Big-O analysis for different sorting algrithms in UC San Diego's Java programming specilization](/img/coursera-vs-udacity/coursera.jpg)
 *Big-O analysis for different sorting algrithms in UC San Diego's Java programming specilization*
 
-Along the way, leaners are also taught pointer, heap, stack and how to draw memory module. Besides, they consistently revise the way of coding in projects after adopting new concepts. For example, function lets programmers reuse their code, inheritance and polymorphism help design classes which share similiar properties, Big-O notation tells which algrithm is the most efficient. That is to say, the projects of courses on Coursra are the way to help learners to consolide those programming basics which are common among different programming languages.
+Along the way, leaners are also taught heap, stack and how to draw memory module. Besides, they consistently revise the way of coding in projects after adopting new concepts. For example, function lets programmers reuse their code, inheritance and polymorphism help design classes which share similiar properties, Big-O notation tells which algrithm is the most efficient. That is to say, the projects of courses on Coursra are the way to help learners to consolide those programming basics which are common among different programming languages.
 
 ### Industrial Udacity
 
-The contents on Udacity are more like instructions which pace the way to the Tech industry for learners. Even though the provided tutorials also cover programming basics, they are included to support those tutorials which teach learners how to build attractive projects or step into the industy quickly. For example, sorting algrithms, binary tree and Big-O notation are often appered in interviewing topics. Udacity has a seperated chapter to cover those knowledge at the end of its <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank">Full Stack Web Developer Nanodegree</a> that deliberately tackle interview problems. In comparison, Coursera covers those knowledge gradually and guides learners to apply them in their coding practice. Moreover, Udacity provides detailed instructions for leaners to build their social network in the industry, help learners sharp their resumes and even offer one to one consulting services online.
+The contents on Udacity are more like instructions which pace the way to the Tech industry for learners. Even though the provided tutorials also cover programming basics, they are included to support those tutorials which teach learners how to build attractive projects or step into the industy quickly. For example, sorting algrithms, binary tree and Big-O notation are often appeared in interviewing topics. Udacity has a seperated chapter to cover those knowledge at the end of its <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004" target="_blank">Full Stack Web Developer Nanodegree</a> that deliberately tackle interview problems. In comparison, Coursera covers those knowledge gradually and guides learners to apply them in their coding practice. Moreover, Udacity provides detailed instructions for leaners to build their social network in the industry, help learners sharp their resumes and even offer one to one consulting services online.
 
 ### Responsiveness
 
@@ -72,6 +72,6 @@ Here is the chart to show the two MOOCs' differences including some other aspect
 
 ## Conclusion
 
-Academic Coursera and industrial Udacity can be recognized as "bottom-up and top-down approaches" to learning programming. As <a href="http://www.programmingforbeginnersbook.com/blog/top-down-bottom-up-approaches-to-learning-programming/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website" target="_blank">Tom Dalling</a> describes, the two general approaches have their own pros and cons.
+Academic Coursera and industrial Udacity can be recognized as "bottom-up and top-down approaches" to learn programming. As <a href="http://www.programmingforbeginnersbook.com/blog/top-down-bottom-up-approaches-to-learning-programming/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website" target="_blank">Tom Dalling</a> describes, the two general approaches have their own pros and cons.
 
-Personally, if time is not a issue, I highly recommend beginners to follow the academic way and Coursera definitely meets their needs. If time matters, Udacity is a good choice, but the bottom-up approach should also be adopted as possible as they can.
+Personally, if time is not an issue, I highly recommend beginners to follow the academic way and Coursera definitely meets their needs. If time matters, Udacity is a good choice, but the bottom-up approach should also be adopted as possible as they can.
