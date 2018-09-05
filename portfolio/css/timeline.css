@@ -217,6 +217,32 @@ body, html {
 	background-size: 22px;
 }
 
+.i-express:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
+.i-mongodb:before {
+	content: "";
+	display: block;
+	width: 80px;
+	height: 40px;
+	background: url("../images/mongodb-icon.jpg") 50% 50% no-repeat;
+	background-size: 22px;
+}
+.i-restful:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/restful-icon.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
 
 /******* Hux Branch *****/
 
